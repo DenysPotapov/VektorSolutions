@@ -273,7 +273,9 @@ body {
 @media (max-width: 551px) {
   .services-card {
     flex: 0 1 100%;
-    margin: 15px auto;
+    margin: 10px auto;
+    max-height: 250px;
+    padding: 5px 10px;
   }
 }
 
