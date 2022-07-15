@@ -274,7 +274,7 @@ body {
   .services-card {
     flex: 0 1 100%;
     margin: 10px auto;
-    max-height: 250px;
+    max-height: 150px;
     padding: 5px 10px;
   }
 }
