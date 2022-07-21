@@ -274,8 +274,9 @@ body {
   .services-card {
     flex: 0 1 100%;
     margin: 10px auto;
-    max-height: 150px;
-    padding: 5px 10px;
+  }
+  .services-card > *:not(:last-child) {
+    padding: 0px 0px 15px 0px;
   }
 }
 
